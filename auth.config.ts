@@ -19,3 +19,6 @@ export const authConfig = {
   },
   providers: [], // Add providers with an empty array for now
 } satisfies NextAuthConfig;
+
+
+// user@nextmail.com // 123456
