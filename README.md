@@ -35,24 +35,38 @@ Este projeto foi criado com o propósito de:
 
 📁 nextjs-app-router-starter
 │
+
 ├── 📁 app/
+
 │ ├── layout.tsx
+
 │ ├── page.tsx
+
 │ ├── dashboard/
+
 │ │ ├── page.tsx
+
 │ │ ├── layout.tsx
+
 │ │ └── components/
+
 │ └── api/
+
 │ └── route.ts
+
 │
+
 ├── 📁 components/
+
 ├── 📁 public/
+
 ├── 📄 next.config.js
+
 ├── 📄 package.json
+
 ├── 📄 tsconfig.json
+
 └── 📄 README.md
-
-
 
 ---
 
